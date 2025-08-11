@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🎓 Bachelor’s in Electronics Engineering | 💻 Full Stack Web Developer | 🇵🇪 Peru
+  🎓 Bachelor’s in Electronics Engineering | 💻 Full Stack Web Developer | 🇵🇪 Peru 
 </h3>
 
 ---
@@ -62,8 +62,11 @@
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Contact 
-<p>
-  <a href="https://www.linkedin.com/in/angel-diego-briones-cerqu%C3%ADn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:angelb.c@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<h3 align="center">
+  <a href="mailto:angelb.c@hotmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" style="object-fit:contain;" />
+  </a>
+  <a href="https://www.linkedin.com/in/angel-diego-briones-cerqu%C3%ADn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="object-fit:contain;" />
+  </a>
+</h3>
