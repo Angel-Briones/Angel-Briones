@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 - 🧑🏻‍💻 Passionate about building innovative solutions that integrate **frontend** and **backend** technologies
-- 🌱 I’m currently re-learning E2E TESTING with Playwright and LOAD TESTING with Artillery
-- 💬 Ask me about Javascript/Typescript or React
+- 🌱 I’m currently re-learning **E2E TESTING** with Playwright and **LOAD TESTING** with Artillery
+- 💬 Ask me about **Javascript/Typescript** or **React**
 - 📫 How to reach me: angelb.c@hotmail.com
 - 📚 I also collaborated on projects in the field of **Deep Learning with Python**. I participated in the **EIRCON** and **LACCEI** international programs, presenting projects in scientific article format
 - 📰 **Articles:**
@@ -55,18 +55,19 @@
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30"> Featured Projects 
 
-- **Ecommerce with Shopping Cart**   
+- ### **Ecommerce with Shopping Cart**   
   A platform that allows users to browse, register, log in, add products to a cart, make payments, and view purchase history.  
   *Stack:* React, Tailwind CSS, React Router v7, Zod, SSR.  
   [🔗 fullstock-frontend](https://github.com/codeableorg/fullstock-frontend)
 
 ---
 
-<h3 align="center">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="mailto:angelb.c@hotmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" style="object-fit:contain;" />
   </a>
   <a href="https://www.linkedin.com/in/angel-diego-briones-cerqu%C3%ADn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="object-fit:contain;" />
   </a>
-</h3>
+</p>
