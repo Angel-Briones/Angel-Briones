@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🧑🏻‍💻 Passionate about building innovative solutions that integrate **frontend** and **backend** technologies
+- 🧑🏻‍💻I'm a person who is motivated by research and committed to continuous learning about building innovative solutions that integrate **frontend** and **backend** technologies 
 - 🌱 I’m currently re-learning **E2E TESTING** with Playwright and **LOAD TESTING** with Artillery
 - 💬 Ask me about **Javascript/Typescript** or **React**
 - 📫 How to reach me: angelb.c@hotmail.com
