@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 🙋🏻, I'm Angel Briones
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi, I'm Angel Briones
 </h1>
 
 <h3 align="center">
@@ -53,17 +53,17 @@
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30"> Featured Projects 
 
-- **Ecommerce with Shopping Cart**  
+- **Ecommerce with Shopping Cart**   
   A platform that allows users to browse, register, log in, add products to a cart, make payments, and view purchase history.  
   *Stack:* React, Tailwind CSS, React Router v7, Zod, SSR.  
   [🔗 fullstock-frontend](https://github.com/codeableorg/fullstock-frontend)
 
 ---
 
-## 🫱🏻‍🫲🏻 Contact
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Contact 
 <p>
-  <a href="mailto:angelb.c@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/angel-diego-briones-cerqu%C3%ADn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/angel-diego-briones-cerqu%C3%ADn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:angelb.c@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
